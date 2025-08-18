@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Spring Boot / Java
+/target/
+/*.iml
+/.idea/
+/*.log
+
+### Arquivos de configuração sensíveis
+.env
+application-local.properties
